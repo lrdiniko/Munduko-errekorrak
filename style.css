@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+h1 {
+    font-family: "PT Serif", serif;
+    color: rgb(36, 150, 216);
+    font-size: 50px;
+}
+
+h3 {
+   font-family: "PT Serif", serif;
+    color: rgb(8, 252, 0);
+    font-size: 30px;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+body {
+    background-color: black;
+}
